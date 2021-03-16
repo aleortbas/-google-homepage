@@ -1,0 +1,1 @@
+Once the project is finished, I find that I have a good understanding of the html structure, but with css it was very difficult and I must look for more information.
